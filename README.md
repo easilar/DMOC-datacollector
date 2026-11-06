@@ -1,4 +1,4 @@
-# DMOC data collector – synthetic data and example plots
+# DMOC-datacollector
 
 Example statistics requested by the CMS DMOC for Glance, built on **synthetic data**.
 None of the numbers describe real CMS members: the dataset is randomly generated, and some
